@@ -6,7 +6,7 @@ What is PowerBI and What are the various Platforms of Power BI?
 Q2. Dax
 Create a line and clustered column chart and compare this year vs last year's sales along with growth % using DAX? Refer superstore dataset
 
-Q3. Data Modeling 
+Q3. Data Modeling
 Import data from 2023 Worldwide Box Office - Box Office Mojo and add the past 3 years of data in the Power Query editor, create a master table of the past 3 years of data, and load only master data in the Power BI query editor or Power BI desktop?
 
 Q4. Waterfall chart 
